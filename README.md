@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Me chamo Roger Souza</h1>
-<h3 align="center">Sou programador backend, e tenho como hobby fotografar.</h3>
+<h3 align="center">Sou programador backend e tenho como hobby fotografar.</h3>
 
 <p align="left"> <a href="https://twitter.com/rogersilvasouza" target="blank"><img src="https://img.shields.io/twitter/follow/rogersilvasouza?logo=twitter&style=for-the-badge" alt="rogersilvasouza" /></a> </p>
 
