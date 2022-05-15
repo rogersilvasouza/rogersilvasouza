@@ -10,8 +10,9 @@
 - ✍️ Planing write more articles to help community
 - ⚡️ Fun fact: I love photography 📷  and aquascape 🐟
 
-##### Blog Posts 📩
+##### Posts 📚
 - 💨 Coming soon
 
-##### Social Networks 📩
+##### Social Networks 🌐
 - 📫 Reach me on: [twitter](https://twitter.com/rogersilvasouza), [instagram](https://instagram.com/rogersilvasouza) or [linkedin](https://www.linkedin.com/in/rogersilvasouza)
+- 📩 rogersilvasouza@hotmail.com
