@@ -16,3 +16,5 @@
 ##### Social Networks 🌐
 - 📫 Reach me on: [twitter](https://twitter.com/rogersilvasouza), [instagram](https://instagram.com/rogersilvasouza) or [linkedin](https://www.linkedin.com/in/rogersilvasouza)
 - 📩 rogersilvasouza@hotmail.com
+
+<!-- Social Canvas Open Graph https://www.canva.com/design/DAFAw0p0w7Y/kKxBCnc_Y3PYjHLhQUGuLg/view?utm_content=DAFAw0p0w7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink -->
