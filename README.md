@@ -10,3 +10,6 @@
 - 📫 Reach me on: [twitter](https://twitter.com/rogersilvasouza), [instagram](https://instagram.com/rogersilvasouza) or [linkedin](https://www.linkedin.com/in/rogersilvasouza)
 - ✍️ Planing write more articles to help community
 - ⚡️ Fun fact: I love photography 📷  and aquascape 🐟
+
+##### Blog Posts 📩
+- Coming soon
