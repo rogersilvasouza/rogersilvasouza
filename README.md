@@ -8,7 +8,7 @@
 - 🌱 Learning all about **WEB3**
 - 💬 Ping me about **development**, **WEB3**, **product**
 - ✍️ Planing write more articles to help community
-- ⚡️ Fun fact: I love photography 📷  and aquascape 🐟
+- ⚡️ I love photography 📷  and aquascape 🐟
 
 ##### Posts 📚
 - 💨 Coming soon
