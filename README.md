@@ -1,7 +1,7 @@
 ### Hello it's me Roger 👋
 
 #### I'm a Back-end Developer working in Ribeirão Preto, Brazil 🇧🇷
-##### Now & Bio
+##### Now & Bio ✨
 
 - 🏢 I'm currently working at **[OW](https://owinteractive.com)**
 - ⚙️ I use daily: `.go`, `.php`, `.ts`, `.tf`, `.yaml`
