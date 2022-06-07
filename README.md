@@ -17,7 +17,6 @@
 
 
 ##### Others 🖥️
-![Meus Status](https://github-readme-stats.vercel.app/api?username=rogersilvasouza&count_private=true&show_icons=true&custom_title=My+Github+status)
 
 ![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rogersilvasouza&langs_count=6&layout=compact&custom_title=Most+used+languages+on+Github)
 
