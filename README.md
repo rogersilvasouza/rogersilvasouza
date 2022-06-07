@@ -15,4 +15,10 @@
 ##### Posts 📚
 - 💨 Coming soon
 
+
+##### Others 🖥️
+![Meus Status](https://github-readme-stats.vercel.app/api?username=rogersilvasouza&count_private=true&show_icons=true&custom_title=My+Github+status)
+
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=rogersilvasouza&langs_count=6&layout=compact&custom_title=Most+used+languages+on+Github)
+
 <!-- Social Canvas Open Graph https://www.canva.com/design/DAFAw0p0w7Y/kKxBCnc_Y3PYjHLhQUGuLg/view?utm_content=DAFAw0p0w7Y&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink -->
