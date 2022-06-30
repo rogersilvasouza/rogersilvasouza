@@ -5,7 +5,7 @@
 
 #### I'm a Back-end Developer from Brazil 🇧🇷
 ##### Now & Bio ✨
-- 🏢 I'm currently working at **[OW](https://owinteractive.com)**
+- 🏢 I'm currently working at **[Astrolink](https://astrolink.com/en)**
 - ⚙️ I use daily: `.go`, `.php`, `.ts`, `.tf`, `.yaml`
 - 🌱 Learning about **WEB3**
 - 💬 Ping me about **development**, **WEB3**, **product**
