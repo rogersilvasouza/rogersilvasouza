@@ -9,13 +9,10 @@
 ##### Now & Bio ✨
 
 - 🏢 I'm currently working at **[Astrolink](https://astrolink.com/en)**;
-- ⚙️ I use daily: `.go`, `.php` and `.ts`;
-- 👷 My actual stack is _Golang_, _Docker_, _PM2_ and _OSX_;
-- 🌱 Learning about **data science**, and **data analysis**;
-- ⚽ I like to talk, **analysis** and watch soccer;
+- 👷 My actual stack is **_Golang_**, **_Docker_**, **_PM2_** and **_OSX_**;
+- 🌱 Learning about **data science**;
 - 💬 Ping me about **development**, **data**, **golang** and **product**;
-- ✍️ Planing write more articles to help community
-- ⚡️ I love _photography_ 📷 and _aquascape_ 🐟
+- ⚡️ I love _photography_ 📷 and I like to talk, **analysis** and watch \__soccer_ ⚽
 
 ##### Posts 📚
 
