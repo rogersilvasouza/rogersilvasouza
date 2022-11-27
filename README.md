@@ -12,7 +12,7 @@
 - 👷 My actual stack is **_Golang_**, **_Docker_** and **_OSX_**;
 - 🌱 Learning about **data science**;
 - 💬 Ping me about **development**, **data**, **golang** and **product**;
-- ⚡️ I love _photography_ 📷 and I like to talk, **analysis** and watch \__soccer_ ⚽
+- ⚡️ I love _photography_ 📷 and I like to talk, **analysis** and watch _soccer_ ⚽
 
 ##### Posts 📚
 
