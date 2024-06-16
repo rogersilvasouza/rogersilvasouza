@@ -7,8 +7,6 @@
 #### I'm a Product Owner and Back-end from Brazil 🇧🇷
 
 ##### Now & Bio ✨
-
-- 🏢 I'm currently working at **[eSapiens](https://esapiens.com.br/en)**;
 - 👷 My actual stack is **_Golang_**
 - 🌱 Learning about **data science**;
 - 💬 Ping me about **development**, **analitycs**, **GO** and **growth**
