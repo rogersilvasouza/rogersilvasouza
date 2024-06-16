@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-rogersilvasouza-00acee?style=flat&logo=twitter)](https://twitter.com/rogersilvasouza)
 [![Instagram](https://img.shields.io/badge/Instagram-rogersilvasouza-E1306C?style=flat&logo=instagram)](https://instagram.com/rogersilvasouza)
 
-#### I'm a Product Owner from Brazil 🇧🇷
+#### I'm a Product Owner and Back-end from Brazil 🇧🇷
 
 ##### Now & Bio ✨
 
